@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BIO DATA</string>
+    <string name="nama">Radmas Ian Kadbal</string>
+    <string name="nim">A11.2017.10540</string>
+    <string name="hobby">Reading (novel),Walking(mindlessly),Hang out at Cinema</string>
+    <string name="deskripsi">Saya dari papua barat (kota sorong), bisa berbahasa inggris dengan baik</string>
+    <string name="alamat">Jl.Wijaya kusuma , Klademak 3 B . Kota Sorong .Papua barat</string>
+    <string name="tlp">082117384255</string>
+    <string name="email">frisklamia@gmail.com</string>
+</resources>
